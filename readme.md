@@ -50,4 +50,4 @@ SOFTWARE.
 
 ## ❯ Stargazers
 
-[![Stargazers over time](https://starchart.cc/fwd/n2.svg)](https://github.com/fwd/n2)
+[![Stargazers over time](https://starchart.cc/fwd/nano-ui.svg)](https://github.com/fwd/nano-ui)
