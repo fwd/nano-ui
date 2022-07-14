@@ -4,7 +4,7 @@
 
 <h2 align="center">Nano Node UI</h2>
 
-<h3 align="center">(In Development. Just HTML + VueJS, presently.)</h3>
+<h3 align="center">(In Development. Only Localhost.)</h3>
 
 ![line](https://github.com/fwd/n2/raw/master/.github/line.png)
 
